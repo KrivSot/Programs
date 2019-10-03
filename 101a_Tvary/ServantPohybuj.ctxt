@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ServantPohybuj
+comment1.params=
+comment1.target=ServantPohybuj()
+comment2.params=objekt\ x\ y
+comment2.target=void\ pohybNa(IPohyb,\ int,\ int)
+comment3.params=objekt\ x\ y
+comment3.target=void\ pohybO(IPohyb,\ int,\ int)
+numComments=4
