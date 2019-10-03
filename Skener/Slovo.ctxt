@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Slovo
+comment0.text=\r\n\ Instance\ t\u0159\u00EDdy\ {@code\ Slovo}\ p\u0159edstavuj\u00ED\ ...\r\n\ The\ {@code\ Slovo}\ class\ instances\ represent\ ...\r\n\r\n\ @author\ \ author\ name\r\n\ @version\ 0.00.0000\ \u2014\ 20yy-mm-dd\r\n
+comment1.params=slovo
+comment1.target=Slovo(java.lang.String)
+comment1.text=\r\n
+comment2.params=slovo
+comment2.target=boolean\ IsSamohlaska(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ dejPlural()
+comment4.params=slovo
+comment4.target=java.lang.String\ DejMnCislo(java.lang.String)
+comment5.params=slovo
+comment5.target=java.lang.String\ PluralSouhlaska(java.lang.String)
+comment6.params=slovo
+comment6.target=java.lang.String\ PluralSamohlaska(java.lang.String)
+numComments=7
