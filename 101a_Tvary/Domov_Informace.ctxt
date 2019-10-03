@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Domov_Informace
+comment0.text=\r\n\ Instance\ t\u0159\u00EDdy\ {@code\ Domov_Informace}\ p\u0159edstavuj\u00ED\ ...\r\n\ The\ {@code\ Domov_Informace}\ class\ instances\ represent\ ...\r\n\r\n\ @author\ \ author\ name\r\n\ @version\ 0.00.0000\ \u2014\ 20yy-mm-dd\r\n
+comment1.params=jm\u00E9no
+comment1.target=Domov_Informace(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getJm\u00E9no()
+comment3.params=vecf
+comment3.target=java.lang.String\ pridej_vec(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

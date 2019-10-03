@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=CellPhone
+comment0.text=\r\n\ Trida\ mobilniho\ telefonu\r\n\ @author\ Pavel\ Micka\r\n
+comment1.params=imei
+comment1.target=CellPhone(java.lang.String)
+comment1.text=\r\n\ Konstruktor,\ kazdy\ telefon\ ma\ imai\r\n\ @param\ imei\r\n
+comment2.params=
+comment2.target=java.lang.String\ getImei()
+comment2.text=\r\n\ @return\ the\ imai\r\n
+comment3.params=card
+comment3.target=void\ setCard(CellPhone.SIMCard)
+comment3.text=\r\n\ @param\ card\ the\ card\ to\ set\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
